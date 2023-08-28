@@ -2,4 +2,4 @@
 
 **Autor:** Emily Dianni
 
-Gerenciador financeiro em Node.js, React e APP em eact Native.
+Gerenciador financeiro em Node.js, React e APP em React Native.
